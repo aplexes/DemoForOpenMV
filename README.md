@@ -1,2 +1,2 @@
-# DemoForOpenMV
+# openmv
 openmv
